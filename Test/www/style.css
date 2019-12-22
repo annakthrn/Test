@@ -1,0 +1,28 @@
+.customNavbar .navbar {
+  background-color: #00b8bd;
+  font-size: 12px;
+}
+
+.customNavbar .navbar-default .navbar-brand {
+  color: white;
+}
+
+.customNavbar .tab-panel {
+  background-color: #00b8bd;
+  color: #00b8bd
+}
+
+.customNavbar .navbar-nav li a:hover, .customNavbar .navbar-nav>.active>a {
+  color: #fff !important;
+  background-color: #00b8bd !important;
+  background-image: #fff !important;
+}
+
+#form {
+    color:393e46;
+}
+
+.btn-primary{
+  background-color: #00adb5;
+  border: none;
+}
